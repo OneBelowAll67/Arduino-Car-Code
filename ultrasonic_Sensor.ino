@@ -7,7 +7,7 @@ const int ENB = 3;    // Left motor PWM
 const int IN3 = 2;    // Left motor direction 1
 const int IN4 = A1;   // Left motor direction 2
 
-// ================= SPEEDS (same as your old robot) =================
+// ================= TUNABLE SPEEDS =================
 #define BASE_SPEED   130
 #define OUTER_TURN   200
 #define INNER_TURN   160

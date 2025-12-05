@@ -1,4 +1,4 @@
-// ================= MOTOR PINS (UNCHANGED) =================
+// ================= MOTOR PINS =================
 const int ENA = 11;
 const int IN1 = 13;
 const int IN2 = 12;

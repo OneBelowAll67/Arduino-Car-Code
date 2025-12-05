@@ -18,7 +18,7 @@ const int SPEED_STEP = 15;
 int spinForwardSpeed = 200;   // left wheel forward when spinning right
 int spinBackwardSpeed = 100;  // right wheel backward when spinning right
 
-// Timed-turn tuning (ms) — adjust to match ~90 degrees on your robot
+// Timed-turn tuning (ms)
 const unsigned long TURN_MS = 650UL;
 
 // Use SoftwareSerial on A2 (RX) and A3 (TX)

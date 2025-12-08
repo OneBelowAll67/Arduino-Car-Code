@@ -8,6 +8,7 @@ const int IN3 = 2;    // Left motor direction 1
 const int IN4 = A1;   // Left motor direction 2
 
 // ================= TUNABLE SPEEDS =================
+//speed has been tuned low to ensure the ultrasonic sensor has enough time to react
 #define BASE_SPEED   130
 #define OUTER_TURN   200
 #define INNER_TURN   160
